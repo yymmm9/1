@@ -1,0 +1,8 @@
+body {
+  background-color:#ce3635;
+  text-align: center;
+  color:#FFF8DC;
+  padding-top:10em;
+}
+
+* { color:#000000; text-decoration: none;}
